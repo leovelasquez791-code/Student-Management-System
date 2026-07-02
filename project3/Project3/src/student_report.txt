@@ -1,0 +1,11 @@
+COMPLETE STUDENT REPORT
+========================
+10001 | Alice Johnson | Computer Science | GPA: 3.85
+10002 | Mark Robinson | Business | GPA: 3.10
+10003 | Ethan Clark | Mechanical Engineering | GPA: 2.95
+10004 | Samantha Lee | Mathematics | GPA: 3.70
+10005 | David Kim | Physics | GPA: 3.20
+20001 | Sarah Lopez | Biology | GPA: 3.90 | Thesis: Genetics in Marine Life | Advisor: Dr. Davis
+20002 | Natalie Perez | Data Science | GPA: 3.95 | Thesis: AI Predictive Models | Advisor: Dr. Thompson
+20003 | Kevin Brown | Chemistry | GPA: 3.60 | Thesis: Organic Synthesis | Advisor: Dr. Wilson
+20004 | Olivia Martinez | Electrical Engineering | GPA: 3.75 | Thesis: Power Systems | Advisor: Dr. Adams

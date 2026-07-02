@@ -1,0 +1,9 @@
+S|10001|Alice Johnson|Computer Science|3.85
+S|10002|Mark Robinson|Business|3.10
+S|10003|Ethan Clark|Mechanical Engineering|2.95
+S|10004|Samantha Lee|Mathematics|3.70
+S|10005|David Kim|Physics|3.20
+G|20001|Sarah Lopez|Biology|3.90|Genetics in Marine Life|Dr. Davis
+G|20002|Natalie Perez|Data Science|3.95|AI Predictive Models|Dr. Thompson
+G|20003|Kevin Brown|Chemistry|3.60|Organic Synthesis|Dr. Wilson
+G|20004|Olivia Martinez|Electrical Engineering|3.75|Power Systems|Dr. Adams
